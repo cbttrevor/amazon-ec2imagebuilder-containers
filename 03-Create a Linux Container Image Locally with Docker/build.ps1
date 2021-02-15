@@ -1,0 +1,1 @@
+docker buildx build --progress plain --tag trevornext $PSScriptRoot
